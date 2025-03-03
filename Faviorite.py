@@ -1,0 +1,10 @@
+print("Welcome to my life document!")
+
+P = input("Write your name here")
+print("Hello",P,"Here is my life!\n")
+print("I am great at making my game!")
+print("I can't upload my game to the meta store which is a bit sad :(.")
+print("I love creating my game though.")
+print("My favourite game is My game!")
+print("My favourite sport is tennis!\n")
+print("Did you like my life",P,"Hope you did!")
